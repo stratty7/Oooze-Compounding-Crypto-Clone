@@ -1,9 +1,8 @@
 # Oooze App - A Clone of the popular Grinch Bucks or Fish Farm Site
 
-Saw a few of these sites had gotten big in the crypto scence over the course of 2022, and wanted to see how they worked. Judging from the contracts, don't use them.
+Saw a few of these sites had gotten big in crypto over the course of 2022, and wanted to see how they worked. Judging from the contracts, don't use them.
 
 First off..
-
 
 **These sites are clearly pyramid schemes, and you shouldn't put any money into them.**
 
@@ -32,9 +31,5 @@ Once deployed fill out the `TODO_LIST_ADDRESS` in `config.js` with the deployed 
 
 You could also just deploy the smart contract and play with it in remix without a front end
 
+![image](https://user-images.githubusercontent.com/58153637/229657892-0b3df3dd-5ff4-4b76-ab5a-8a55e359d9cb.png)
 
-# Live Example
- 
- Here is a live example, with a live smart contract. It should work on both BSC testnet and BSC mainnet
-
-https://ooze-app.com/
