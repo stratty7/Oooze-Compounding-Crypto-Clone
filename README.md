@@ -1,4 +1,4 @@
-# Oooze App - A Clone of the popular Grinch Bucks or Fish Farm Site
+# Oooze App - A Clone of the popular Grinch Bucks, Fish Farm Site or Baked Beans
 
 Saw a few of these sites had gotten big in crypto over the course of 2022, and wanted to see how they worked. Judging from the contracts, don't use them.
 
