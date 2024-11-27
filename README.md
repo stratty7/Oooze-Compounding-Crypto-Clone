@@ -1,6 +1,6 @@
-# Oooze Compounding Crypto Clone - A Investigatory Clone of popular BNB Miners Grinch Bucks/Baked Beans
+# Oooze Compounding Crypto Clone - A Investigatory Clone Of Popular BNB Miners
 
-Saw a few of these sites had gotten big in crypto over the course of 2022/23, and wanted to see how they worked. Some of the listed sites had millions of dollars of volume during thier peaks (grinch bucks peaked at 1.8m!)
+Saw a few of these sites had gotten big in crypto over the course of 2022/23  (Grinch Bucks or Baked Beans), and wanted to see how they worked. Some of the listed sites had millions of dollars of volume during thier peaks (grinch bucks peaked at 1.8m!)
 
 **These sites are clearly scams, and you shouldn't put any money into them.**
 
