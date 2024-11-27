@@ -5,6 +5,7 @@ Saw a few of these sites had gotten big in crypto over the course of 2022/23  (G
 **These sites are clearly scams, and you shouldn't put any money into them.**
 
 They are made to make the creator and influencers that are paid to promote it money from the fees. The developers get a fee from every transaction.If you aren't the first couple of people interacting with the contract (or the creator), you are probably gonna have a bad time.
+
 ![C5MxatkUYAEpsnS](https://github.com/user-attachments/assets/c74ecb52-4b72-41af-a1d9-03c1a062568e)
 
 How the sites portrays itself as working is: 
